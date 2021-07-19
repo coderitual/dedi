@@ -1,3 +1,5 @@
-# Figma Dream
+# figma dedi
+> Dedi cool! 
+> Designers and Developers collaboration made easy.
 
-Figma Design System Tools out from Your Dream.
+Figma plugin to sync coded components with figma design system.
