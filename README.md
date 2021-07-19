@@ -1,5 +1,7 @@
 # figma dedi
 > Dedi cool! 
-> Designers and Developers collaboration made easy.
 
+Collaboration between Designers and Developers made easy.
+
+# Intro
 Figma plugin to sync coded components with figma design system.
