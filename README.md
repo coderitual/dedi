@@ -1,6 +1,6 @@
-# figma dedi
+# dedi
 
-> Dedi cool! Collaboration between Designers and Developers made easy.
+> Collaboration between Designers and Developers made easy. Dedi cool!
 
 # Intro
 
