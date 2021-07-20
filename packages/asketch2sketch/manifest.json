@@ -1,0 +1,28 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Import file(s)...",
+      "identifier": "importFiles",
+      "script": "./importFiles.js"
+    },
+    {
+      "name": "Paste",
+      "identifier": "paste",
+      "script": "./paste.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "title": "output",
+    "items": [{
+      "title": "From *Almost* Sketch to Sketch",
+      "items": [
+        "importFiles",
+        "paste"
+      ]
+    }]
+  }
+}
