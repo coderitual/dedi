@@ -1,6 +1,7 @@
 {
-  "name": "dedi-figma-renderer",
+  "name": "dedi-style-guide",
   "version": "1.0.0",
   "main": "index.js",
+  "license": "MIT",
   "private": true
 }
